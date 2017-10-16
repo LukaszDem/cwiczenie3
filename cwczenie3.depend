@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507546842 source:d:\jaaa\cwczenie3\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+
